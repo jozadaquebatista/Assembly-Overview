@@ -1,14 +1,14 @@
-# Assembly Language[ASM]
+# Assembly Language x86 n' x86_64 - ASM
 
-A time ago I've created some repos with code in JAVA, C/C++, JS, and so on, and I like it, and some people have learned from my simple codes, so now I had the ideia to create Assembly language repository, to help people understand better this AWESOME rich programming language.
+<br>A time ago I've created some repos with code in JAVA, C/C++, JS, and so on, and I like it, and some people have learned from my simple codes, so now I had the ideia to create Assembly language repository, to help people understand better this AWESOME rich programming language.
 
 <img src="http://i.imgur.com/YgfAgkn.png" style="width: 100%;" />
 
 # What motivates me to do this:
--> To learn more things
--> To help other people
--> To train my English
--> To learn microprocessors/microcontrollers architeture and mainly how low-level hardware works.
+-> To learn more things<br>
+-> To help other people<br>
+-> To train my English<br>
+-> To learn microprocessors/microcontrollers architeture and mainly how low-level hardware works.<br><br><br>
 
 
 
