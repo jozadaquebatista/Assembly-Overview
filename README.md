@@ -10,10 +10,10 @@
 -> To train my English<br>
 -> To learn microprocessors/microcontrollers<br> architeture and mainly how low-level hardware works.<br><br><br>
 
-## What do you need?
--> NASM assembler(netwide assembler)
--> NASM manual
--> some good book or article about assembly programming language
--> pacience and dedication
+## What do you need?<br>
+-> NASM assembler(netwide assembler)<br>
+-> NASM manual<br>
+-> some good book or article about assembly programming language<br>
+-> pacience and dedication<br><br>
 
 That's it, and I hope you like it! :)
