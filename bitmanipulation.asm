@@ -1,5 +1,4 @@
-; Like other programming languages, the assembly language let us use shift and logical
-; operations, so lets do it. :)
+; Like other programming languages, the assembly language let us use shift and logical  operations, so lets do it. :)
 
 segment .text
   global _start
