@@ -18,10 +18,10 @@
 
 ## Some resources
 NASM OFICIAL DOCUMENTATION:<br>
-    http://www.nasm.us/doc
+    http://www.nasm.us/doc<br>
 PROFESSIONAL ASSEMBLY LANGUAGE:<br>
-    https://g.co/kgs/UUQtzR
+    https://g.co/kgs/UUQtzR<br>
 ARCH LINUX: - powerful tool for programmers, because it follows DIY way<br>
-    archlinux.org<br>
+    https://archlinux.org<br>
     
 <b>That's it, and I hope you like it! :)</b>
