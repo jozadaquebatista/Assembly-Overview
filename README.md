@@ -23,5 +23,7 @@ PROFESSIONAL ASSEMBLY LANGUAGE:<br>
     https://g.co/kgs/UUQtzR<br>
 ARCH LINUX: - powerful tool for programmers, because it follows DIY way<br>
     https://archlinux.org<br>
+INTEL MANUALS
+    https://software.intel.com/pt-br/intel-software-technical-documentation?_ga=1.77739543.2033937124.1469990708
     
 <b>That's it, and I hope you like it! :)</b>
