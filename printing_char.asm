@@ -2,11 +2,11 @@
 
 %define syscall 0x80
 
-%macro print 2
+%macro print 1
         mov eax,0x04      ; sys_write      
         mov ebx,0x01      ; fd
         
-        push 'A'
+        push %1
         mov ecx, esp      ; esp *---> 'A'
         mov edx,0x01      ; len char
         int syscall
@@ -27,5 +27,5 @@ segment .bss
         global _start
 
   _start:
-        write 'J'
+        print 'J'
         exit 0
