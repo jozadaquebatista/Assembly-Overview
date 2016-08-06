@@ -1,4 +1,4 @@
-
+[bits 32]
 extern print_Str
 
 segment .bss
