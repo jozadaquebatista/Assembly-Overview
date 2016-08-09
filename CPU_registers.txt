@@ -1,0 +1,23 @@
+In 32bits we has some main registers.
+
+64 bits [ RAX     |    RBX    |    RCX    |    RDX   ]
+32 bits [ EAX     |    EBX    |    ECX    |    EDX   ]
+16 bits [ AX      |    BX     |    CX     |    DX    ]
+08 bits [ AL,AH   |    BL,BL  |    CL,CH  |    DL,DH ] <--- each of these are 4 bits, and they must work together.
+All of this registers are for:
+..ACUMULATOR(RAX,EAX,AX)
+..BASE(RBX,EBX,BX)
+..COUNTER(RCX,ECX,CX)
+..DATA(RDX,EDX,DX)
+
+and segment register.
+
+[ DS     |    CS    |    ES   |   SS   ], data segment, code segment, extra data segment, stack segment
+
+and index registers.
+
+[ SI, DI], source index, destination index
+
+and STACK registers
+
+[ SP, BP ], stack pointer, base pointer
