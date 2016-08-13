@@ -21,3 +21,7 @@ and index registers.
 and STACK registers
 
 [ SP, BP ], stack pointer, base pointer
+
+[ IP ], holds the pointer to the next instruction.
+
+[ EFLAGS ], contain a bunch of unrelated set of bits, that represent result of operations of microprocessor registors.
